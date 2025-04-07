@@ -34,7 +34,7 @@ const About = () => {
 				</h2>
 				<AnimatedTitle
 					title={`disc<b>o</b>ver the world's l<b>a</b>rgest shared adventure`}
-					containerClass="mt-5 text-center !text-black text-4xl uppercase leading-[0.8] md:text-[6rem]"
+					containerClass="mt-5 text-center !text-black text-4xl uppercase leading-[0.8] md:text-[6rem]`"
 				/>
 
 				<div className="about-subtext">

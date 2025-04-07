@@ -1,4 +1,5 @@
-import React, { useEffect, useRef } from "react";
+"use client";
+import { useEffect, useRef } from "react";
 import gsap from "gsap";
 
 const AnimatedTitle = ({ title, containerClass }) => {
